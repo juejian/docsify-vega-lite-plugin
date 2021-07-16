@@ -13,6 +13,6 @@
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
 <!-- docsidy-vega-lite -->
-<script src="//cdn.jsdelivr.net/juejian/docsify-vega-lite-plugin/lib/index.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/juejian/docsify-vega-lite-plugin/lib/index.min.js"></script>
 ```
 
